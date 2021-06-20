@@ -1,1 +1,1 @@
-web: gunicorn app:ECenter_Dashboard
+web: gunicorn ECenter_Dashboard:app
